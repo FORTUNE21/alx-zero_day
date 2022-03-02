@@ -1,1 +1,1 @@
-I am an ALX Student, software engineering
+I am an ALX Student, learning software engineering.
